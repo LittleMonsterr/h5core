@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "declaration": true,
+        "experimentalDecorators": true,
+        "importHelpers": true,
+        "outFile": "bin/h5core/h5core.js",
+        "lib": [
+            "es5",
+            "dom"
+        ]
+    },
+    "exclude": [
+        "./bin",
+        "./backup"
+    ]
+}
